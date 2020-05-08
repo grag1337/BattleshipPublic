@@ -1,0 +1,6 @@
+A:\BattleshipProject\BattleshipProject\bin\Release\BattleshipProject.exe.config
+A:\BattleshipProject\BattleshipProject\bin\Release\BattleshipProject.exe
+A:\BattleshipProject\BattleshipProject\bin\Release\BattleshipProject.pdb
+A:\BattleshipProject\BattleshipProject\obj\Release\BattleshipProject.csprojAssemblyReference.cache
+A:\BattleshipProject\BattleshipProject\obj\Release\BattleshipProject.exe
+A:\BattleshipProject\BattleshipProject\obj\Release\BattleshipProject.pdb

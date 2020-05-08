@@ -1,0 +1,25 @@
+-=-=-==-=-=-=-=-=-==-=-=-=-=-=-==-=-=-=-=-=-==-=-=-=-=-=-==-=-=-=
+THINGS DONE
+---
+[+] Work on item shop 
+
+[+] Scoreboard. -=-=-=-=-
+
+[+] Gameplay Logic. -=-=-=-
+	[-] Generate enemy tiles -=-=
+	[-] Enemys shoot -=-=-=
+	[-] Killable enemies -=-=
+
+[+] Save Previous Moves. -=-=-=
+
+[+] Generate used tiles. -=-=-=-
+
+[+] Add Multiple Endgame states. -=-=-=-
+
+[+] Add AI Difficulty. -=-=-=-
+	[-] The random hit chances get smaller & smaller the harder they
+		get.
+
+[+] Multiple plays, getting harder each time. -=--=-=-=
+
+[+] Point system -=-=-=-
